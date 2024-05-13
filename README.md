@@ -32,9 +32,9 @@ npm install
 
 To start the development server, run:
 
-`````
-npm start````
-`````
+```
+npm start
+```
 
 The server will start running on `http://localhost:5173`
 
