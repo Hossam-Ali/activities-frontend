@@ -36,8 +36,6 @@ To start the development server, run:
 npm start
 ```
 
-The server will start running on `http://localhost:5173`
-
 The server will start running on `http://localhost:5173`.
 
 ### Running with Docker
