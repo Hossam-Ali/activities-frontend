@@ -23,7 +23,6 @@ npm install
 
 ```
 npm run start
-
 ```
 
 ### With Docker
@@ -32,5 +31,4 @@ To run the application using Docker, execute the following command:
 
 ```
 docker-compose up --build
-
 ```
