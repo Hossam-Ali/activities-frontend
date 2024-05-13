@@ -49,3 +49,11 @@ docker-compose up --build
 ```
 
 This command will build the Docker image for the frontend application and start the container. You can access the application at `http://localhost:5173`.
+
+## How to Run Tests
+
+To run tests, execute the following command:
+
+```
+npm test
+```
