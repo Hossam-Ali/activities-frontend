@@ -1,0 +1,27 @@
+/* inputStyles.css */
+.input-container {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.input-field {
+  padding: 12px 20px;
+  border: none;
+  background-color: #f8f9fa;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  margin-bottom: 1rem;
+}
+
+.input-field:focus {
+  outline: none;
+  background-color: #ffffff;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.input-field::placeholder {
+  color: rgb(12 74 110);
+}
